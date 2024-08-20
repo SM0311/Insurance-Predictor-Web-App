@@ -7,7 +7,7 @@ This Shiny application provides a user-friendly interface for predicting insuran
 
 Live Demo
 You can explore the live application here. 
-https://www.shinyapps.io/admin/#/application/12480917
+https://surajm0311.shinyapps.io/InsurancePricePrediction/
 
 Features
 Input Features: Enter various parameters to predict insurance charges.
